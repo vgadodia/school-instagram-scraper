@@ -6,9 +6,15 @@ Install Selenium, a website automation tool.
 ```python
 pip install selenium
 ```
-In addition to installing the selenium package as detailed above, you must download the chromedriver as well:
-https://chromedriver.chromium.org/downloads
+In addition to installing the selenium package as detailed above, you must download the chromedriver as well. You can find that here: https://chromedriver.chromium.org/downloads
+
 Install Pytesseract, Optical Character Recognition tool to read and detect text in images.
 ```python
 pip install pytesseract
 ```
+
+Lastly, before you run the code, make sure you change all the file paths in the code to fit your directories/folders in your computer.
+```python
+python instagram-scraper.py
+```
+
