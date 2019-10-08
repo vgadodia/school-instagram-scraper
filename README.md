@@ -3,23 +3,23 @@ Project which scrapes photos of my school's teacher absence list from Instagram,
 
 ## How to run the algorithm
 Install Selenium, a website automation tool.
-```python
+```
 pip install selenium
 ```
 In addition to installing the selenium package as detailed above, you must download the chromedriver as well. You can download the chromedriver from here: https://chromedriver.chromium.org/downloads
 
 Install Pytesseract, an Optical Character Recognition tool to read and detect text in images.
-```python
+```
 pip install pytesseract
 ```
 
 Install OpenCV, a package we will use to open and read the scraped image.
-```python
+```
 pip install opencv-python
 ```
 
 Lastly, before you run the code, make sure you change all the file paths in the code to fit your directories/folders in your computer. Then run:
-```python
+```
 python instagram-scraper.py
 ```
 
