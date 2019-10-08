@@ -6,7 +6,7 @@ Install Selenium, a website automation tool.
 ```python
 pip install selenium
 ```
-In addition to installing the selenium package as detailed above, you must download the chromedriver as well. You can find that download here: https://chromedriver.chromium.org/downloads
+In addition to installing the selenium package as detailed above, you must download the chromedriver as well. You can download the chromedriver from here: https://chromedriver.chromium.org/downloads
 
 Install Pytesseract, an Optical Character Recognition tool to read and detect text in images.
 ```python
