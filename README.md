@@ -13,6 +13,11 @@ Install Pytesseract, an Optical Character Recognition tool to read and detect te
 pip install pytesseract
 ```
 
+Install OpenCV, a package we will use to open and read the scraped image.
+```python
+pip install opencv-python
+```
+
 Lastly, before you run the code, make sure you change all the file paths in the code to fit your directories/folders in your computer. Then run:
 ```python
 python instagram-scraper.py
